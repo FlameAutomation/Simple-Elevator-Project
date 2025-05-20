@@ -1,0 +1,7 @@
+# Runtime data
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.xml
+*.cache
